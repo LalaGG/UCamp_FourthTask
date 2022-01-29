@@ -1,0 +1,56 @@
+.main-content{
+    display: flex;
+}
+.image-container{
+    text-align: center;
+}
+.information-container{
+    text-align: center;
+}
+.reserva-text-container{
+    text-align: left;
+    margin: auto;
+}
+.ubicanos-text-container{
+    text-align: right;
+    margin: auto;
+}
+.reservar-button{
+    margin-top: 1.5em;
+}
+.main-footer{
+    text-align: center;
+    margin-top: 5em;
+}
+#form-reserva{
+    padding: 2em;
+    border-style: solid;
+    border-radius: 3em;
+}
+#google-map{
+  width: 100%;
+  height: 20em;
+}
+#card-content{
+  text-align: center;
+}
+
+.card{
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 1%;
+}
+
+.card img{
+  width: 370px;
+  height: 280px;
+}
+
+.card-text span{
+  font-weight: bold;
+}
+.submitButton{
+  display: flex;
+  justify-content: flex-end;
+}
